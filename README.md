@@ -128,6 +128,6 @@ For questions, please send an email to m.poggi@unibo.it or fabio.tosi5@unibo.it
 
 We would like to extend our sincere appreciation to the authors of the following projects for making their code available, which we have utilized in our work:
 
-- We would like to thank the authors of [SEA-RAFT](https://github.com/JiaRenChang/PSMNet) and [Depth Anything v2](https://github.com/DepthAnything/Depth-Anything-V2) for providing their code, which has been instrumental to implement FlowSeek
+- We would like to thank the authors of [SEA-RAFT](https://github.com/princeton-vl/SEA-RAFT) and [Depth Anything v2](https://github.com/DepthAnything/Depth-Anything-V2) for providing their code, which has been instrumental to implement FlowSeek
 
 - We would also like to thanks the authors of [DPT](https://github.com/isl-org/DPT), [Depth Anything](https://github.com/LiheYoung/Depth-Anything), [FlowFormer](https://github.com/drinkingcoder/FlowFormer-Official) and [CRAFT](https://github.com/askerlee/craft) for providing their code, which has been instrumental in our ablation studies.
